@@ -3,14 +3,17 @@ gmappingとはSLAMのためのアルゴリズムをROSで使用できるよう�
 # 目的
 ROSパッケージのslam_gmappingを説明すること
 # ソースコード
-[1]のslam_gmappingを使用する．
+1.のslam_gmappingを使用する．
 # このREADMEの構成
 slam_gmappingのディレクトリ構成について説明し，それぞれのファイルについて説明する．
 # ディレクトリの構成
-[1]をワーキングディレクトリとしたときの写真を以下に示す．
-![top-page](https://raw.githubusercontent.com/cakecatz/garage/images/garage-screenshot-01.png)
+1.をワーキングディレクトリとしたときの写真を以下に示す．
+![top-page](https://github.com/cakecatz/garage/blob/images/garage-screenshot-01.png)
 # 
 
+
+# 完走
+なぜかgmappingのリポジトリが二つある．References参照のこと
 # References
 1. https://github.com/ros-perception/slam_gmapping
 1. https://github.com/ros-perception/openslam_gmapping
