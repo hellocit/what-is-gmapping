@@ -8,7 +8,7 @@ ROSパッケージのslam_gmappingを説明すること
 slam_gmappingのディレクトリ構成について説明し，それぞれのファイルについて説明する．
 # ディレクトリの構成
 1.をワーキングディレクトリとしたときの写真を以下に示す．
-![top-page](https://github.com/cakecatz/garage/blob/images/garage-screenshot-01.png)
+![top-page](https://github.com/hellocit/what-is-gmapping/blob/image/a.png)
 # 
 
 
