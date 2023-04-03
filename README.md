@@ -8,8 +8,15 @@ ROSパッケージのslam_gmappingを説明すること
 slam_gmappingのディレクトリ構成について説明し，それぞれのファイルについて説明する．
 # ディレクトリの構成
 [1]をワーキングディレクトリとしたときの写真を以下に示す．
-
+![top-page](https://raw.githubusercontent.com/cakecatz/garage/images/garage-screenshot-01.png)
+# 
 
 # References
 1. https://github.com/ros-perception/slam_gmapping
 1. https://github.com/ros-perception/openslam_gmapping
+
+
+
+# Appendix
+* https://cakecatz.hatenadiary.com/entry/2015/02/10/214942
+    * branchを変えてgithubに画像を掲載する方法
