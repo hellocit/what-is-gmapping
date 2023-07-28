@@ -20,7 +20,7 @@ slam_gmappingのディレクトリ構成について説明し，それぞれの�
     * CMakeLists.txt
         * 使用するライブラリを記述するファイル
     * package.xml
-        * catkin_create_pkgするときに作成されるファイルである．このファイルはパッケージのせつめいや作った人の紹介，ライセンスなどの様々な情報を記述するファイルである．
+        * catkin_create_pkgするときに作成されるファイルである．このファイルはパッケージの説明や作った人の紹介，ライセンスなどの様々な情報を記述するファイルである．
 
 # what-is-gmapping/slam_gmapping/gmapping
 
